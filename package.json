@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "json-server": "  json-server --watch ./data/db.json --port 3001 --host 192.168.10.223",
+    "json-server": "  json-server --watch ./data/db.json --port 3001 --host IP ADDRESS",
     "dev": "vite --host",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
